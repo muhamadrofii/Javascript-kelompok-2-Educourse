@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar .container-fluid{
+    padding: 1.4rem 7%;
+    background-color: #fdd835;
+    border-bottom: 1px solid #F2DD72;
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+}
+
+.nav-item .nav-link:hover {
+    color: #ffffff;
+}
+
+.navbar .container-fluid img{
+    width: 20%;
+    position: absolute;
+    left: 20px;
+    margin: 0;
+    top: 60%;
+    transform: translateY(-50%);
+}
+
+.hero-section {
+    margin-top: 6rem;
+}
+  
+  

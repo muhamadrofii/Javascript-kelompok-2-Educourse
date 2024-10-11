@@ -1,0 +1,66 @@
+/* NAVBAR */
+.navbar .container-fluid{
+    padding: 1.4rem 7%;
+    background-color: #fdd835;
+    border-bottom: 1px solid #F2DD72;
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+}
+
+.nav-item .nav-link:hover {
+    color: #ffffff;
+}
+
+.navbar .container-fluid img{
+    width: 20%;
+    position: absolute;
+    left: 20px;
+    margin: 0;
+    top: 60%;
+    transform: translateY(-50%);
+}
+
+.home-section{
+    margin-top: 5rem;
+}
+
+.about {
+    padding: 4rem 7% 1.4rem;
+}
+
+.img-about img{
+    max-width: 80%;
+    height: auto;
+}
+
+.features .card {
+    background-color: #ffcc00;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #fdd835; /* Background kuning saat terbuka */
+    color: black;
+  }
+
+.contact .row form {
+    padding: 2rem;
+
+}
+
+.contact .row form .input-group input {
+    padding: 2rem;
+    background-color: black; 
+}
+
+.placeholder-white::placeholder {
+    color: white;
+    opacity: 1;
+}
+
+.contact .row form .input-group input:focus {
+    background-color: #000;
+    color: #fff;
+    border-color: #fff;
+    box-shadow: none;
+}
