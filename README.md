@@ -1,4 +1,4 @@
-# Boostsrap Kelompok 2
+# Javascript Kelompok 2 Educourse
 Penggunakan Javascript ke dalam kode tugas sebelumnya
 
 
